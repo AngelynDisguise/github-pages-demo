@@ -9,6 +9,5 @@ title: Welcome to Joe's blog!
 | - Because I told you to.                               | - It's respectful to appreciate your caretaker.               |
 |                                                        | - Mom's are actually cool. (I love you, Mom!)                 |
 
-<br>
 ---
 <br>
