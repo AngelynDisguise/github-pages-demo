@@ -13,3 +13,5 @@ title: Welcome to Joe's blog
 - It's respectful to appreciate your caretaker.
 - Mom's are actually cool. (I love you, Mom!)
 
+---
+
