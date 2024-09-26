@@ -1,5 +1,5 @@
 ---
-title: Welcome to Joe's blog
+title: Welcome to Joe's blog!
 ---
 
 #### Reasons you should use GitHub:
