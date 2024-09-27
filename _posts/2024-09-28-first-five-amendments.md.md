@@ -1,5 +1,5 @@
 ---
-title: "The first 5 amendments."
+title: "The first 5 amendments"
 date: 2023-09-28
 ---
 
