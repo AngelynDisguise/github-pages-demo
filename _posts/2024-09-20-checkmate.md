@@ -1,6 +1,6 @@
 ---
 title: "Can you checkmate?"
-date: 2023-09-20
+date: 2024-09-20
 ---
 
 *You are black.*

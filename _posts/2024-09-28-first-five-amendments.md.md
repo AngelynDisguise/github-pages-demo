@@ -1,6 +1,6 @@
 ---
 title: "The first 5 amendments"
-date: 2023-09-28
+date: 2024-09-28
 ---
 
 The US Bill of Rights state:
