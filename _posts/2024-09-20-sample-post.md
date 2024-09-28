@@ -22,7 +22,7 @@ Chessboard:
 ---
 <br>
 
-White pieces: **K** (King), **R** (Rook)
+White pieces: **K** (King), **R** (Rook) <br>
 Black pieces: **k** (king), **r** (rook)
 <!-- Hint: your c2 rook looks awfully dangerous to White's e1 king... -->
 
