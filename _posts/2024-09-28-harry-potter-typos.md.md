@@ -1,5 +1,5 @@
 ---
-title: "Dumbeldore aksed calmy"
+title: "Dumbeldore asked calmly"
 date: 2024-09-28
 ---
 
