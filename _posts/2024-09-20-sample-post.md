@@ -6,7 +6,7 @@ date: 2023-09-28
 *You are black.*
 <br><br>
 Chessboard:
-<br><br>
+<br>
 
 | 8 | . | . | . | . | k | . | . | R |
 |---|---|---|---|---|---|---|---|---|
@@ -19,12 +19,10 @@ Chessboard:
 | 1 | . | . | . | . | K | . | . | . |
 |   | a | b | c | d | e | f | g | h |
 
-<br>
 ---
-<br>
 
 White pieces: **K** (King), **R** (Rook) <br>
-Black pieces: **k** (king), **r** (rook) <br><br>
+Black pieces: **k** (king), **r** (rook) <br>
 
 <!-- Hint: your c2 rook looks awfully dangerous to White's e1 king... -->
 
